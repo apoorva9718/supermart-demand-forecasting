@@ -1,4 +1,4 @@
-# walmart-demand-forecasting
+# supermart-demand-forecasting
 
 This dataset consists of the historical sales of Walmart which was recorded in 3 different stores with 3 months data. 
 Predictive data analytics for demand forecasting of sales for various class of products such as 
