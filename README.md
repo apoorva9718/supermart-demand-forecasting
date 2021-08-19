@@ -10,6 +10,4 @@ Predictive data analytics for demand forecasting of sales for various class of p
 - Fashion Accessories
 
 are analyzed through ARIMA model
-
-Pending Task:
-- visualize the results on StreamLit
+and all the graphs are visualized with Streamlit, along with the technical explantion and business insights and understanding for all the graphs and trends 
